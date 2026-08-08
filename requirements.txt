@@ -1,0 +1,11 @@
+torch
+torchvision
+facenet-pytorch
+matplotlib
+pillow
+numpy
+scikit-learn
+scikit-image
+scipy
+kaggle
+h5py

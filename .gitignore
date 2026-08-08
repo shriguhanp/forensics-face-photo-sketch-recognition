@@ -1,0 +1,40 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Project specific data (images, models, etc. that shouldn't be tracked)
+data/
+*.pth
+*.h5
+3dmm_renders/
+3dmm_*.png
+my_3dmm_renders.csv
+
+# Auto-generated JSON files
+test_pairs.json
+train_pairs.json
+multisketch_pairs.json
+extended_gallery.json
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary and log files
+*.log
+tmp/
+temp/
