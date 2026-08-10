@@ -1,4 +1,4 @@
-# Practical Lab: Face Photo-Sketch Recognition (Deep Transfer Learning)
+# Face Photo-Sketch Recognition (Deep Transfer Learning)
 
 This implements the **core methodology** of Galea & Farrugia, *"Forensic Face
 Photo-Sketch Recognition Using a Deep Learning-Based Architecture"* (IEEE
